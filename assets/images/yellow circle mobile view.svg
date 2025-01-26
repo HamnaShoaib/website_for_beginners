@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="600" viewBox="0 0 300 600">
+  <defs>
+    <clipPath id="clip-yellow_circle_mobile_view">
+      <rect width="300" height="600"/>
+    </clipPath>
+  </defs>
+  <g id="yellow_circle_mobile_view" data-name="yellow circle mobile view" clip-path="url(#clip-yellow_circle_mobile_view)">
+    <path id="Path_85" data-name="Path 85" d="M-83.91-1668.243v-600c165.68,0,300,134.31,300,300S81.77-1668.243-83.91-1668.243Z" transform="translate(83.91 2268.243)" fill="#fdeecd"/>
+  </g>
+</svg>

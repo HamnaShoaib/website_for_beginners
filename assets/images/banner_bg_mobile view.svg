@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360" height="834" viewBox="0 0 360 834">
+  <defs>
+    <clipPath id="clip-banner_bg_mobile_view">
+      <rect width="360" height="834"/>
+    </clipPath>
+  </defs>
+  <g id="banner_bg_mobile_view" data-name="banner bg mobile view" clip-path="url(#clip-banner_bg_mobile_view)">
+    <path id="Path_83" data-name="Path 83" d="M-327.027-4740.4v742.479c-126.09,97.973-269.659,98.773-360,85.451V-4740.4Z" transform="translate(687.027 4740.399)" fill="#2b50ed"/>
+  </g>
+</svg>

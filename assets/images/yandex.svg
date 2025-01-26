@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <clipPath id="clip-yandex">
+      <rect width="80" height="80"/>
+    </clipPath>
+  </defs>
+  <g id="yandex" clip-path="url(#clip-yandex)">
+    <g id="Group_22" data-name="Group 22" transform="translate(468.449 -403.439)">
+      <rect id="Rectangle_11" data-name="Rectangle 11" width="80" height="80" rx="12" transform="translate(-468.449 403.439)" fill="#fff"/>
+      <path id="Path_19" data-name="Path 19" d="M-419.259,425.939h-2.962a.424.424,0,0,0-.464.315c-.038.188-4.443,13.618-4.763,14.737-.227.793-.967,3.589-1.144,4.261l-1.532-4.183c-.373-1.151-3.94-11.118-4.045-11.516-.057-.219-.158-.491-.542-.491H-437.6a.377.377,0,0,0-.351.5c.073.154,5.3,14.052,7.407,19.361V460.6c0,.213.085.341.3.341h2.739a.3.3,0,0,0,.3-.341V449.017c1.759-4.913,8.185-22.391,8.255-22.587C-418.873,426.191-418.9,425.939-419.259,425.939Z" fill="red"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <clipPath id="clip-bing">
+      <rect width="80" height="80"/>
+    </clipPath>
+  </defs>
+  <g id="bing" clip-path="url(#clip-bing)">
+    <g id="Group_21" data-name="Group 21" transform="translate(562.491 -403.439)">
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="80" height="80" rx="12" transform="translate(-562.491 403.439)" fill="#fff"/>
+      <g id="layer1">
+        <path id="path2998" d="M-532.988,425.939-526,428.4v24.611l9.847-5.685-4.828-2.266-3.046-7.581,15.517,5.451v7.925l-17.486,10.086-7-3.891Z" fill="#00806f"/>
+      </g>
+    </g>
+  </g>
+</svg>

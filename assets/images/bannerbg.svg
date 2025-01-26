@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="936" viewBox="0 0 1280 936">
+  <defs>
+    <clipPath id="clip-banner_bg">
+      <rect width="1280" height="936"/>
+    </clipPath>
+  </defs>
+  <g id="banner_bg" data-name="banner bg" clip-path="url(#clip-banner_bg)">
+    <path id="Path_82" data-name="Path 82" d="M996.45-4566.033a154.317,154.317,0,0,1-1.76,24.171c-.49,3.03-.9,6.07-1.25,9.12-28.23,242.162-522.38,632.4-522.38,632.4-203.43,163.492-455.53,68.641-455.53,68.641-165.99-32.451-299.08-156.582-299.08-156.582v-752.056H906.75C984.38-4676.293,996.45-4604.493,996.45-4566.033Z" transform="translate(283.55 4740.344)" fill="#2b50ed"/>
+  </g>
+</svg>
